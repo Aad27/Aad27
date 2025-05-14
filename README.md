@@ -3,7 +3,7 @@
 ### 🧠 About Me
 - 🧑‍💻 Currently diving into **Python**, **C**, **C++**, and **JavaScript**  
 - 🔭 Next up: **Go (Golang)** — Can’t wait to build cool stuff with it :)  
-- 🎮 Passionate about **Gaming**, **Anime**, **Cricket**, and **working out**  
+- 🎮 Passionate about **Gaming**, **Anime**, **Cricket**, and **Working out**  
 
 ---
 
